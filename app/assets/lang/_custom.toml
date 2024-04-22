@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "EffeClient"
+
+[ejs.landing]
+mediaGitHubURL = "https://effeclient.it"
+#mediaTwitterURL = "https://effeclient.it"
+mediaInstagramURL = "https://effeclient.it"
+#mediaYouTubeURL = "https://effeclient.it"
+mediaDiscordURL = "https://discord.gg/gbsMQVMvvs"
+
+[ejs.settings]
+sourceGithubLink = "https://effeclient.it"
+supportLink = "https://effeclient.it"
+
+[ejs.welcome]
+welcomeHeader = "Benvenuto/a su EffeClient"
+welcomeDescription = "Sei a pochi clic da EffeClient."
+welcomeDescCTA = "Copyright © 2024 EffeClient"

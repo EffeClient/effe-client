@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+<channel>
+<title>EffeClient</title>
+<link>https://effeclient.it/</link>
+<item>
+<title>Benvenuto/a su EffeClient!</title>
+<content:encoded>
+<![CDATA[ <p>E stato aggiunto la funziona di login Mojang e Microsoft su EffeClient</p> <ul>  </ul> ]]>
+</content:encoded>
+<dc:creator>ANNUNCIO</dc:creator>
+<pubDate>26 Marzo 2024 16:11:00</pubDate>
+<slash:comments>2024</slash:comments>
+</item>
+</channel>
+</rss>
