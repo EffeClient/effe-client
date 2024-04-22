@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EffeClient/effe-client.git"
+    "url": "https://github.com/EffeClient/effe-client.git"
   }
 }
